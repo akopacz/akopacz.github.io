@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "A. Kopacz"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Anikó Kopacz"
 description              : &description "personal description"
 url                      : https://akopacz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
