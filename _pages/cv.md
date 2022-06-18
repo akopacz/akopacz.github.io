@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Computer Science, Babeș-Bolyai University, 2015-2018
+* MSc in Data Analysis and Modelling, Babeș-Bolyai University, 2018-2020
+* PhD in Computer Science, Babeș-Bolyai University, 2021-present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2021 -- Present: Security Researcher
+  * Bitdefender. Cluj-Napoca (Romania)
+  * Working in a dynamic team focusing on network threat prevention
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2021: Junior Software Engineer
+  * Bitdefender. Cluj-Napoca (Romania)
+  * Applying machine learning practices to solve real life problems
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Sep. 2020 -- Mar. 2021: Research Engineer
+  * Széchényi István University. Győr(Hungary)
+  * Participated in a research project investigating the efficiency of machine learning approaches for the train rescheduling problem
+ 
+* Summer 2017: Working student/trainee, Software Developer
+  * Nokia Solutions and Networks. Budapest (Hungary)
+  * Developed an interactive website with an emphasis on vizualizing structured data
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
