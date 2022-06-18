@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short bio - Anikó Kopacz"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Bio
-======
 I started a PhD in Computer Science PhD program in 2021 at Babeș-Bolyai University in Romania and my research interest include multi-agent systems, machine learning and reinforcement learning (RL). I am a member of the [Metaheuristics for Complex Systems Research Group](https://www.cs.ubbcluj.ro/~meco/). My recent work aims to apply various machine learning approaches to solve problems concerning real-life complex systems. I am currently working as a Security Researcher at [Bitdefender](https://www.bitdefender.com).
 
 News
