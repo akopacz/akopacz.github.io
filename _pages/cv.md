@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* BSc in Computer Science, Babeș-Bolyai University, 2015-2018
-* MSc in Data Analysis and Modelling, Babeș-Bolyai University, 2018-2020
-* PhD in Computer Science, Babeș-Bolyai University, 2021-present
-
 Work experience
 ======
 * Oct. 2021 -- Present: Security Researcher
@@ -33,3 +27,9 @@ Work experience
   * Nokia Solutions and Networks. Budapest (Hungary)
   * Developed an interactive website with an emphasis on vizualizing structured data
   
+
+Education
+======
+* BSc in Computer Science, Babeș-Bolyai University, 2015-2018
+* MSc in Data Analysis and Modelling, Babeș-Bolyai University, 2018-2020
+* PhD in Computer Science, Babeș-Bolyai University, 2021-present
