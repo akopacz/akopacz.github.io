@@ -12,12 +12,12 @@ I started a PhD in Computer Science PhD program in 2021 at Babeș-Bolyai Univers
 
 News
 ======
-- Accepted to [Eastern Europian Machine Learning Summel School](https://www.eeml.eu/) with a poster presentation. 
+- Accepted to [Eastern Europian Machine Learning Summel School 2022](https://www.eeml.eu/) with a poster presentation. 
 
 Publications
 ====
 
 Conferences
 ---
-1. A. Kopacz, Á. Mester, S. Kolumbán, and L. Csató. Standardized feature extraction from pairwise conflicts applied to the train rescheduling problem. 20222 IEEE 20th Jubilee World Symposium on Applied Machine Intelligence and Informatics (SAMI), *to appear*
-1. A. Kopacz, L. Csató, and C. Chira. Applying Deep Q-learning for multi-agent cooperative-competitive environments. 2022. 17th International Conference on Soft Computing Models in Industrial and Environmental Applications, *accepted*
+1. A. Kopacz, Á. Mester, S. Kolumbán and L. Csató, "Standardized feature extraction from pairwise conflicts applied to the train rescheduling problem," 2022 IEEE 20th Jubilee World Symposium on Applied Machine Intelligence and Informatics (SAMI), 2022, pp. 000103-000108, doi: 10.1109/SAMI54271.2022.9780701.
+1. A. Kopacz, L. Csató, and C. Chira. Applying Deep Q-learning for multi-agent cooperative-competitive environments. 2022. 17th International Conference on Soft Computing Models in Industrial and Environmental Applications, *to appear*
