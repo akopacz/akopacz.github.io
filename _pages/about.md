@@ -20,4 +20,4 @@ Publications
 Conferences (selected)
 ---
 1. A. Kopacz, Á. Mester, S. Kolumbán and L. Csató, "Standardized feature extraction from pairwise conflicts applied to the train rescheduling problem," 2022 IEEE 20th Jubilee World Symposium on Applied Machine Intelligence and Informatics (SAMI), 2022, pp. 000103-000108, doi: 10.1109/SAMI54271.2022.9780701.
-1. A. Kopacz, L. Csató, C. Chira. (2022), "Applying Deep Q-learning for Multi-agent Cooperative-Competitive Environments" 17th Int. Conf. on Soft Computing Models in Industrial and Environmental Applications (SOCO 2022), Springer Nature Switzerland, 2023, pp. 626–634, doi: 10.1007/978-3-031-18050-7_61.
+1. A. Kopacz, L. Csató, C. Chira, "Applying Deep Q-learning for Multi-agent Cooperative-Competitive Environments" 17th Int. Conf. on Soft Computing Models in Industrial and Environmental Applications (SOCO 2022), Springer Nature Switzerland, 2023, pp. 626–634, doi: 10.1007/978-3-031-18050-7_61.
