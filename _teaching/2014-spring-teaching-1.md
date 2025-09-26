@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Labs & seminars"
+permalink: "2021-2024-teaching"
+venue: "Babes-Bolyai University, Faculty of Mathetamtics and Computer Science"
+date: 2021-10-01 - 2024-05-31
+location: "Cluj-Napoca, Romania"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+**Fall semester:** Computational Logic, Formal languages and compiler techniques
+**Spring semester:** Artificial Intelligence
