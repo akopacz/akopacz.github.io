@@ -4,7 +4,7 @@ collection: teaching
 type: "Labs & seminars"
 permalink: "2021-2024-teaching"
 venue: "Babes-Bolyai University, Faculty of Mathetamtics and Computer Science"
-date: ""
+# date: ""
 location: "Cluj-Napoca, Romania"
 ---
 
