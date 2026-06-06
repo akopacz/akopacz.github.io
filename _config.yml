@@ -23,12 +23,12 @@ repository               : "akopacz/akopacz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : # "profile.png"
   name             : "Anikó Kopacz"
   pronouns         : # example: "she/her"  
   bio              : "Research interests include: Reinforcement learning, Deep learning, Multi-agent systems."
   location         : "Romania"
-  employer         : "Babeș-Bolyai University | Connatix"
+  employer         : "Babeș-Bolyai University"
   uri              : # URL
   email            : # "none@example.org" 
 
@@ -41,8 +41,8 @@ author:
   orcid            : "https://orcid.org/0000-0001-5300-9955"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Aniko-Kopacz"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57349684800"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
