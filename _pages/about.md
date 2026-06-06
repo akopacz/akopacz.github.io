@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I started a Computer Science PhD program in 2021 at Babeș-Bolyai University in Romania and my research interest concentrating on multi-agent systems (MAS), machine learning (ML) and reinforcement learning (RL). I am a member of the [Metaheuristics for Complex Systems Research Group](https://www.cs.ubbcluj.ro/~meco/). My recent work aims to apply various machine learning approaches to solve problems concerning real-life complex systems. I worked as a Security Researcher at [Bitdefender](https://www.bitdefender.com) and I am currently a Machine Learning Engineer at [Connatix](https://connatix.com/).
+I am working on my PhD in Computer Science PhD at Babeș-Bolyai University (Romania) under the supervision of [Camelia Chira](https://www.cs.ubbcluj.ro/~cchira/index.html). My research interests include multi-agent systems (MAS), machine learning (ML), reinforcement learning (RL) and complex networks. I am a member of the [Metaheuristics for Complex Systems Research Group](https://www.cs.ubbcluj.ro/~meco/). 
+
+Recently, I worked with reinforcement learning approaches to optimize robot navigation in two-dimensional environments, and optimizing influence spread in case of signed social networks. 
+
+<!-- I worked as a Security Researcher at [Bitdefender](https://www.bitdefender.com) and I am currently a Machine Learning Engineer at [Connatix](https://connatix.com/). -->
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 

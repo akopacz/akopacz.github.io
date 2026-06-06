@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Research"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,9 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Research interests
+* Multi-agent systems
+* Machine learning
+* Reinforcement learning
+* Graphs and networks
+* Route optimization problems
+
+Research projects
 ======
-* Oct. 2023 - present: Machine Learning Engineer
+* Romanian Hub for Artificial Intelligence (HRIA)
+  * PCIDIF/709/PCIDIF_P4/OP1/RSO1.6/PCIDIF_A12, SMIS 351416, 2025-2027, Team member
+  * Topic: Intelligent learning and optimization systems in complex dynamic environments
+
+* Hungarian Service Network for Mathematics in Industry and Innovations (HU-MATHS-IN)
+ * EFOP-3.6.2-16-2017-00015, 2017-2021, Team member
+ * Topic: Machine learning approaches for the train rescheduling problem
+
+<!-- * Promoting Sustainability as a Fundamental Driver in Software Development Training and Education (Sustrainable)
+  * 2020-1-PT01-KA203-078646, Erasmus+ strategic partnership project -->
+
+<!-- Work experience
+======
+* Oct. 2023 - Sept. 2025: Machine Learning Engineer
   * Connatix. Cluj-Napoca (Romania)
   * Implementing machine learning solutions for ad-tech: dynamic price optimization
 
@@ -30,13 +50,13 @@ Work experience
 * Summer 2017: Working student/trainee, Software Developer
   * Nokia Solutions and Networks. Budapest (Hungary)
   * Developed an interactive website with an emphasis on vizualizing structured data
-  
+   -->
 
 Education
 ======
-* BSc in Computer Science, Babeș-Bolyai University, 2015-2018
-* MSc in Data Analysis and Modelling, Babeș-Bolyai University, 2018-2020
 * PhD in Computer Science, Babeș-Bolyai University, 2021-present
+* MSc in Data Analysis and Modelling, Babeș-Bolyai University, 2018-2020
+* BSc in Computer Science, Babeș-Bolyai University, 2015-2018
   
 <!-- Skills
 ======
