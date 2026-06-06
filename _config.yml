@@ -23,7 +23,7 @@ repository               : "akopacz/akopacz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sn-alpha.png"
   name             : "Anikó Kopacz"
   pronouns         : # example: "she/her"  
   bio              : Assistant professor, ML researcher # "Research interests include: Reinforcement learning, Deep learning, Multi-agent systems."
