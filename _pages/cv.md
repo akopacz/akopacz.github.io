@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Research interests
-* Multi-agent systems
-* Machine learning
-* Reinforcement learning
-* Graphs and networks
-* Route optimization problems
 
 Research projects
 ======
@@ -23,8 +17,8 @@ Research projects
   * Topic: Intelligent learning and optimization systems in complex dynamic environments
 
 * Hungarian Service Network for Mathematics in Industry and Innovations (HU-MATHS-IN)
- * EFOP-3.6.2-16-2017-00015, 2017-2021, Team member
- * Topic: Machine learning approaches for the train rescheduling problem
+  * EFOP-3.6.2-16-2017-00015, 2017-2021, Team member
+  * Topic: Machine learning approaches for the train rescheduling problem
 
 <!-- * Promoting Sustainability as a Fundamental Driver in Software Development Training and Education (Sustrainable)
   * 2020-1-PT01-KA203-078646, Erasmus+ strategic partnership project -->

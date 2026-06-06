@@ -8,9 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am working on my PhD in Computer Science PhD at Babeș-Bolyai University (Romania) under the supervision of [Camelia Chira](https://www.cs.ubbcluj.ro/~cchira/index.html). My research interests include multi-agent systems (MAS), machine learning (ML), reinforcement learning (RL) and complex networks. I am a member of the [Metaheuristics for Complex Systems Research Group](https://www.cs.ubbcluj.ro/~meco/). 
+I am working on my PhD in Computer Science PhD at Babeș-Bolyai University (Romania) under the supervision of [Camelia Chira](https://www.cs.ubbcluj.ro/~cchira/index.html). 
+<!-- My research interests include multi-agent systems (MAS), machine learning (ML), reinforcement learning (RL) and complex networks.  -->
+I am a member of the [Metaheuristics for Complex Systems Research Group](https://www.cs.ubbcluj.ro/~meco/). 
 
 Recently, I worked with reinforcement learning approaches to optimize robot navigation in two-dimensional environments, and optimizing influence spread in case of signed social networks. 
+
+Research interests
+=====
+* Multi-agent systems
+* Machine learning
+* Reinforcement learning
+* Graphs and networks
+* Route optimization problems
 
 <!-- I worked as a Security Researcher at [Bitdefender](https://www.bitdefender.com) and I am currently a Machine Learning Engineer at [Connatix](https://connatix.com/). -->
 
